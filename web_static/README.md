@@ -54,6 +54,9 @@ Requirements:
     * `styles/3-header.css`: for the header style
     * `styles/3-footer.css`: for the footer style
 
+ ![Screenshot from 2023-10-20 20-16-41](https://github.com/Smambo/AirBnB_clone/assets/113464914/048577d5-e265-4cef-80f3-5aea1404d246)
+
+
 ### [4.Search!](./4-index.html)
 Write an HTML page that displays a header, footer and a filters box with a search button.
 
