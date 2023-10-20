@@ -16,6 +16,8 @@ Requirements:
 * You are not allowed to use the `style` tag in the `head` tag
 * Use inline styling for all your tags
 
+![Screenshot from 2023-10-20 17-55-43](https://github.com/Smambo/AirBnB_clone/assets/113464914/a6bf0581-354e-4735-98a8-9d94721a2f1a)
+
 ### [1.Head styling](./1-index.html)
 Write an HTML page that displays a header and a footer by using the `style` tag in the `head` tag (same as [0-index.html](./0-index.html))
 
