@@ -2,8 +2,9 @@
 ## This part of the project focuses on the front-end of the clone:
 We'll be making use of two distinct front-end technologies: [HTML](https://www.freecodecamp.org/news/what-is-html-definition-and-meaning/) and [CSS](https://en.wikipedia.org/wiki/CSS)
 
-![image]()
+![image](https://github.com/Smambo/AirBnB_clone/assets/113464914/66372880-39d0-4d9c-84f6-b931374b1d22)
 
+The following code should be W3C compliant and validate with [W3C-Validator](https://github.com/alx-tools/W3C-Validator)
 ## Tasks:
 ### [0.Inline styling](./0-index.html)
 Write an HTML page that displays a header and a footer.
