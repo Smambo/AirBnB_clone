@@ -111,7 +111,7 @@ Requirements:
   * `styles/3-footer.css`: for the footer style
   * `styles/6-filters.css`: for the filters style
 
-![Screenshot from 2023-10-21 20-30-52](https://github.com/Smambo/AirBnB_clone/assets/113464914/5ca90355-ca1a-411e-9757-19094c18529c)
+![Screenshot from 2023-10-21 20-45-40](https://github.com/Smambo/AirBnB_clone/assets/113464914/ad98d206-be2d-4ee7-aa41-9ed5c71ed80c)
 ![Screenshot from 2023-10-21 20-31-11](https://github.com/Smambo/AirBnB_clone/assets/113464914/91d299f0-1b4b-4357-8952-7611cc3c10da)
 
 ### [7.Display results](./7-index.html)
