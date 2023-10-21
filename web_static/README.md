@@ -74,6 +74,9 @@ Requirements:
   * `styles/4-filters.css`: for the filters style
 * `4-index.html` **won’t be W3C valid**, don’t worry, it’s temporary
 
+![Screenshot from 2023-10-21 14-55-15](https://github.com/Smambo/AirBnB_clone/assets/113464914/42f18986-2590-46e7-8f89-7903ed6d5e7e)
+
+
 ### [5.More filters](./5-index.html)
 Write an HTML page that displays a header, footer and a filters box.
 Requirements:
