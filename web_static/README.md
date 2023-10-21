@@ -92,6 +92,9 @@ Requirements:
   * `styles/3-footer.css`: for the footer style
   * `styles/5-filters.css`: for the filters style
 
+![Screenshot from 2023-10-21 17-49-53](https://github.com/Smambo/AirBnB_clone/assets/113464914/aa2ed36d-03cf-45ec-bb6a-9e8c8cb50d8b)
+
+
 ### [6.It's (h)over](./6-index.html)
 Write an HTML page that displays a header, footer and a filters box with dropdown
 
