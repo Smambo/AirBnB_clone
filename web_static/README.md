@@ -149,3 +149,5 @@ Requirements:
   * `styles/6-filters.css`: for the filters style
   * `styles/8-places.css`: for the places style
 
+![Screenshot from 2023-10-22 21-43-33](https://github.com/Smambo/AirBnB_clone/assets/113464914/ff145b76-5bed-42d8-a5f9-e6fa00d44646)
+
