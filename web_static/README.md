@@ -16,7 +16,7 @@ Requirements:
 * You are not allowed to use the `style` tag in the `head` tag
 * Use inline styling for all your tags
 
-![Screenshot from 2023-10-20 17-55-43](https://github.com/Smambo/AirBnB_clone/assets/113464914/a6bf0581-354e-4735-98a8-9d94721a2f1a)
+![Screenshot from 2023-10-22 15-45-15](https://github.com/Smambo/AirBnB_clone/assets/113464914/6e07cb45-286d-48d0-85d5-17cee1b1cae2)
 
 ### [1.Head styling](./1-index.html)
 Write an HTML page that displays a header and a footer by using the `style` tag in the `head` tag (same as [0-index.html](./0-index.html))
@@ -54,8 +54,7 @@ Requirements:
     * `styles/3-header.css`: for the header style
     * `styles/3-footer.css`: for the footer style
 
- ![Screenshot from 2023-10-20 20-16-41](https://github.com/Smambo/AirBnB_clone/assets/113464914/048577d5-e265-4cef-80f3-5aea1404d246)
-
+![Screenshot from 2023-10-22 15-43-20](https://github.com/Smambo/AirBnB_clone/assets/113464914/d84a3328-88c4-46cb-8b53-3b7770e4f1d0)
 
 ### [4.Search!](./4-index.html)
 Write an HTML page that displays a header, footer and a filters box with a search button.
@@ -74,8 +73,7 @@ Requirements:
   * `styles/4-filters.css`: for the filters style
 * `4-index.html` **won’t be W3C valid**, don’t worry, it’s temporary
 
-![Screenshot from 2023-10-21 14-55-15](https://github.com/Smambo/AirBnB_clone/assets/113464914/42f18986-2590-46e7-8f89-7903ed6d5e7e)
-
+![Screenshot from 2023-10-22 15-42-33](https://github.com/Smambo/AirBnB_clone/assets/113464914/683e8e43-e2bb-4034-8501-3015b7f96eeb)
 
 ### [5.More filters](./5-index.html)
 Write an HTML page that displays a header, footer and a filters box.
@@ -92,8 +90,7 @@ Requirements:
   * `styles/3-footer.css`: for the footer style
   * `styles/5-filters.css`: for the filters style
 
-![Screenshot from 2023-10-21 17-49-53](https://github.com/Smambo/AirBnB_clone/assets/113464914/aa2ed36d-03cf-45ec-bb6a-9e8c8cb50d8b)
-
+![Screenshot from 2023-10-22 15-41-57](https://github.com/Smambo/AirBnB_clone/assets/113464914/f7d9959f-537e-4c62-b499-c865f33d64cd)
 
 ### [6.It's (h)over](./6-index.html)
 Write an HTML page that displays a header, footer and a filters box with dropdown
@@ -111,8 +108,9 @@ Requirements:
   * `styles/3-footer.css`: for the footer style
   * `styles/6-filters.css`: for the filters style
 
-![Screenshot from 2023-10-21 20-45-40](https://github.com/Smambo/AirBnB_clone/assets/113464914/ad98d206-be2d-4ee7-aa41-9ed5c71ed80c)
-![Screenshot from 2023-10-21 20-31-11](https://github.com/Smambo/AirBnB_clone/assets/113464914/91d299f0-1b4b-4357-8952-7611cc3c10da)
+![Screenshot from 2023-10-22 15-39-48](https://github.com/Smambo/AirBnB_clone/assets/113464914/e9cab5ae-9405-4ebb-a50f-f38d2753d564)
+![Screenshot from 2023-10-22 15-39-59](https://github.com/Smambo/AirBnB_clone/assets/113464914/8ac51073-1391-4608-932e-08d8fec50766)
+
 
 ### [7.Display results](./7-index.html)
 Write an HTML page that displays a header, footer, a filters box with dropdown and results.
