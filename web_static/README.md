@@ -131,6 +131,9 @@ Requirements:
   * `styles/6-filters.css`: for the filters style
   * `styles/7-places.css`: for the places style
 
+![Screenshot from 2023-10-22 15-30-54](https://github.com/Smambo/AirBnB_clone/assets/113464914/e3400743-a243-4975-81fc-9d0347bc6236)
+
+
 ### [8.More details](./8-index.html)
 Write an HTML page that displays a header, a footer, a filter box (dropdown list) and the result of the search
 
