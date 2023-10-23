@@ -5,6 +5,8 @@ We'll be making use of two distinct front-end technologies: [HTML](https://www.f
 ![image](https://github.com/Smambo/AirBnB_clone/assets/113464914/66372880-39d0-4d9c-84f6-b931374b1d22)
 
 The following code should be W3C compliant and validate with [W3C-Validator](https://github.com/alx-tools/W3C-Validator)
+
+**Note**: [4-index.html](./4-index.html) **won't be W#C valid**, don't worry, it's temporary 
 ## Tasks:
 ### [0.Inline styling](./0-index.html)
 Write an HTML page that displays a header and a footer.
